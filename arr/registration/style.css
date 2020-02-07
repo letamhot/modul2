@@ -1,0 +1,16 @@
+.error {
+  color: #ff0000;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: whitesmoke;
+}
+td,
+th {
+  border: solid 1px #ccc;
+}
+form {
+  width: 450px;
+  background: thistle;
+}
